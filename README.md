@@ -4,7 +4,7 @@ This algorithm is designed to learn and play a simple game of chance using a sim
 
 The program can take arguments to define the game:
 
-**NDice**: number of dice rolled on each turn.
+**NDice**: maximum number of dice rolled on each turn.  A player can choose to roll less.
 
 **Nsides**: how many sides each dice has.
 
